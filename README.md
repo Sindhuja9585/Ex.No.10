@@ -1,5 +1,4 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Ex.No.10 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## NAME: SINDHUJA P
 ## Reg. No: 212222220047
